@@ -20,7 +20,7 @@ This project implements an embedded air monitoring system using the AVR128DB48 m
 - MPLAB X / Atmel Studio
 
 ## Screenshots
-> _(Imafe of  setup or SerLCD output other file)_
+> _(Image of  setup or SerLCD output other file)_
 
 ## Authors
 - Naafiul Hossain  
